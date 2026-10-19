@@ -1,0 +1,591 @@
+{
+  "flightNumber": "B6384",
+  "aircraft": "A321",
+  "cabins": [
+    {
+      "cabinType": "business",
+      "layout": "2-2",
+      "rows": [
+        {
+          "rowNumber": 3,
+          "seats": [
+            {
+              "seatId": "3A",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            },
+            {
+              "seatId": "3B",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "3C",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "3D",
+              "seatType": "business",
+              "available": false,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [
+            {
+              "seatId": "4A",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            },
+            {
+              "seatId": "4B",
+              "seatType": "business",
+              "available": false,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "4C",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "4D",
+              "seatType": "business",
+              "available": true,
+              "price": 165,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 5,
+          "seats": [
+            {
+              "seatId": "5A",
+              "seatType": "business",
+              "available": true,
+              "price": 180,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            },
+            {
+              "seatId": "5B",
+              "seatType": "business",
+              "available": true,
+              "price": 180,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "5C",
+              "seatType": "business",
+              "available": true,
+              "price": 180,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "5D",
+              "seatType": "business",
+              "available": true,
+              "price": 180,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cabinType": "economy",
+      "layout": "3-3",
+      "rows": [
+        {
+          "rowNumber": 12,
+          "seats": [
+            {
+              "seatId": "12A",
+              "seatType": "economy",
+              "available": false,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            },
+            {
+              "seatId": "12B",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "12C",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "12D",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "12E",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "12F",
+              "seatType": "economy",
+              "available": false,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 13,
+          "seats": [
+            {
+              "seatId": "13A",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            },
+            {
+              "seatId": "13B",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "13C",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "13D",
+              "seatType": "economy",
+              "available": false,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "13E",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "13F",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 14,
+          "seats": [
+            {
+              "seatId": "14A",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            },
+            {
+              "seatId": "14B",
+              "seatType": "economy",
+              "available": false,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "14C",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "14D",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "14E",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "14F",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 15,
+          "seats": [
+            {
+              "seatId": "15A",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            },
+            {
+              "seatId": "15B",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "15C",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "15D",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "15E",
+              "seatType": "economy",
+              "available": false,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "15F",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 16,
+          "seats": [
+            {
+              "seatId": "16A",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            },
+            {
+              "seatId": "16B",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "16C",
+              "seatType": "economy",
+              "available": false,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "16D",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "16E",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": false,
+                "window": false
+              }
+            },
+            {
+              "seatId": "16F",
+              "seatType": "economy",
+              "available": true,
+              "price": 35,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": false,
+                "window": true
+              }
+            }
+          ]
+        },
+        {
+          "rowNumber": 17,
+          "seats": [
+            {
+              "seatId": "17A",
+              "seatType": "economy",
+              "available": false,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            },
+            {
+              "seatId": "17B",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "17C",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "17D",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "17E",
+              "seatType": "economy",
+              "available": true,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": false,
+                "extraLegroom": true,
+                "window": false
+              }
+            },
+            {
+              "seatId": "17F",
+              "seatType": "economy",
+              "available": false,
+              "price": 50,
+              "amenities": {
+                "powerOutlet": true,
+                "extraLegroom": true,
+                "window": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

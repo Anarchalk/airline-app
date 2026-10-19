@@ -1,0 +1,16 @@
+{
+  "name": "airline-app",
+  "private": true,
+  "workspaces": [
+    "airline-app-ui",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev --workspace=airline-app-ui\" \"npm:dev --workspace=server\"",
+    "build": "npm run build --workspaces",
+    "typecheck": "npm run typecheck --workspaces"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
